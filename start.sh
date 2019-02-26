@@ -1,3 +1,5 @@
-export MOVIE_API_KEY='7854ce99b646526f11604daf32dc1202'
-export SECRET_KEY='0788504294ma0788896659pa'
+export MOVIE_API_KEY='1ffc24269879232f662cca6275a90e21'
+export SECRET_KEY='0789090427'
+export MAIL_USERNAME=ugiraconsole@gmail.com
+export MAIL_PASSWORD=mbazumutima
 python3.6 manage.py server
